@@ -1,0 +1,7 @@
+Copiar y pegar estos 3 links para obtener su respuesta.
+
+http://localhost:8080/miapp/clima?ciudad=BuenosAires 
+
+http://localhost:8080/miapp/clima?ciudad=Ushuaia 
+
+http://localhost:8080/miapp/clima?ciudad=Tokio 
